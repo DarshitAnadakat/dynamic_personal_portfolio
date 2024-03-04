@@ -8,15 +8,15 @@ const Projects = () => {
   return (
     <section className='max-container'>
       <h1 className='head-text'>
-        My{" "}
+        our{" "}
         <span className='blue-gradient_text drop-shadow font-semibold'>
           Projects
         </span>
       </h1>
 
       <p className='text-slate-500 mt-2 leading-relaxed'>
-        I've embarked on numerous projects throughout the years, and 
-        am curious about the new upcoming tech and am always ready for coloboaration 
+        we'hv embarked on numerous projects throughout the years, and 
+        am curious about the new upcoming tech and we'r always ready for coloboaration 
         for project. lets explore and grow in our semisters and computer science journey together.
       </p>
 
